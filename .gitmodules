@@ -1,3 +1,6 @@
 [submodule "React-Fundamentals"]
 	path = React-Fundamentals
 	url = https://github.com/Meghana-Vadlapally/React-Fundamentals.git
+[submodule "React-Hooks"]
+	path = React-Hooks
+	url = https://github.com/Meghana-Vadlapally/React-Hooks.git
